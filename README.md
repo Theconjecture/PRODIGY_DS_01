@@ -1,5 +1,7 @@
 <!-- Add a banner image at the top -->
-![Project Banner](/Users/mostaphaatta/Downloads/Internship/banner.png)
+<img src="https://github.com/user-attachments/assets/c6f3892e-0754-492c-ae57-e7e5b15c7bfa" alt="Description" style="width: 100%;" />
+
+
 
 #### First task of InfoTech Data Science Internship : Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
